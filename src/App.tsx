@@ -32,7 +32,7 @@ const App = () => {
     Currently under devlopment
   </AlertTitle>
   <AlertDescription maxWidth='sm'>
-    Thanks for your interest. Our dev team is working hard to develop this! For now, use our temporary solution at <a href="https://www.everyonestem.org/courses">here</a>
+    Thanks for your interest. Our devlopment team is working hard to develop this! For now, use our temporary solution at <a href="https://www.everyonestem.org/courses">here</a>
   </AlertDescription>
 </Alert>
   </Box>
